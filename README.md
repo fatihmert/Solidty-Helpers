@@ -24,7 +24,7 @@ If you want help this repository, please don't worry you can create any issue or
 
 Simple array sorting descending and ascending. Example using;
 
-```solidty
+```js
 contract C {
     using SortingArray for uint256[];
 
